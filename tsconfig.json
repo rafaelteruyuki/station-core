@@ -5,6 +5,9 @@
     "paths": {
       "@station/buttons": [
         "./dist/station/buttons"
+      ],
+      "@station/cards": [
+        "./dist/station/cards"
       ]
     },
     "outDir": "./dist/out-tsc",
