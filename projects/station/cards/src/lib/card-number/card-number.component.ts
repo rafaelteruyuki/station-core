@@ -1,16 +1,16 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'stc-cards',
+  selector: 'stc-card-number',
   standalone: true,
   imports: [],
   template: `
     <p>
-      cards works!
+      card-number works!
     </p>
   `,
-  styles: ``
+  styleUrl: './card-number.component.scss'
 })
-export class CardsComponent {
+export class CardNumberComponent {
 
 }
